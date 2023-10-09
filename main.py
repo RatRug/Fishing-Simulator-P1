@@ -1,7 +1,7 @@
 import pyautogui as pag
 from PIL import Image
 import time
-"""region = 900 500 100 100, RGB 68,252,234
+"""region = 900 500 100 100, RGB 68,252,234"""
 pag.FAILSAFE=True
 Bub1=Image.open(f"assets/Bubble.png")
 Bub2=Image.open(f"assets/Bubble2.png")
